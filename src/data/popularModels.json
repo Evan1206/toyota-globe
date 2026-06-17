@@ -1,0 +1,97 @@
+{
+  "United States": [
+    { "rank": 1, "model": "RAV4", "category": "SUV", "powertrain": "Hybrid Available" },
+    { "rank": 2, "model": "Camry", "category": "Sedan", "powertrain": "Hybrid Standard" },
+    { "rank": 3, "model": "Tacoma", "category": "Pickup", "powertrain": "Gasoline / Hybrid" }
+  ],
+  "Japan": [
+    { "rank": 1, "model": "Yaris Cross", "category": "Crossover", "powertrain": "Hybrid Available" },
+    { "rank": 2, "model": "Roomy", "category": "MPV", "powertrain": "Gasoline" },
+    { "rank": 3, "model": "Corolla", "category": "Sedan", "powertrain": "Hybrid Available" }
+  ],
+  "China": [
+    { "rank": 1, "model": "Corolla", "category": "Sedan", "powertrain": "Gasoline / Hybrid" },
+    { "rank": 2, "model": "Camry", "category": "Sedan", "powertrain": "Hybrid Available" },
+    { "rank": 3, "model": "RAV4", "category": "SUV", "powertrain": "Gasoline / PHEV" }
+  ],
+  "India": [
+    { "rank": 1, "model": "Innova Crysta", "category": "MPV", "powertrain": "Diesel / Hybrid" },
+    { "rank": 2, "model": "Fortuner", "category": "SUV", "powertrain": "Diesel / Gasoline" },
+    { "rank": 3, "model": "Urban Cruiser Hyryder", "category": "Crossover", "powertrain": "Hybrid Available" }
+  ],
+  "Thailand": [
+    { "rank": 1, "model": "Hilux Revo", "category": "Pickup", "powertrain": "Diesel" },
+    { "rank": 2, "model": "Fortuner", "category": "SUV", "powertrain": "Diesel" },
+    { "rank": 3, "model": "Yaris", "category": "Hatchback", "powertrain": "Gasoline" }
+  ],
+  "Indonesia": [
+    { "rank": 1, "model": "Avanza", "category": "MPV", "powertrain": "Gasoline" },
+    { "rank": 2, "model": "Fortuner", "category": "SUV", "powertrain": "Diesel" },
+    { "rank": 3, "model": "Innova", "category": "MPV", "powertrain": "Diesel / Hybrid" }
+  ],
+  "Brazil": [
+    { "rank": 1, "model": "Corolla Cross", "category": "Crossover", "powertrain": "Hybrid Available" },
+    { "rank": 2, "model": "Corolla", "category": "Sedan", "powertrain": "Hybrid Available" },
+    { "rank": 3, "model": "Hilux", "category": "Pickup", "powertrain": "Diesel" }
+  ],
+  "United Kingdom": [
+    { "rank": 1, "model": "Yaris Cross", "category": "Crossover", "powertrain": "Hybrid Standard" },
+    { "rank": 2, "model": "C-HR", "category": "Crossover", "powertrain": "Hybrid / PHEV" },
+    { "rank": 3, "model": "Corolla", "category": "Hatchback", "powertrain": "Hybrid Standard" }
+  ],
+  "Germany": [
+    { "rank": 1, "model": "Yaris", "category": "Hatchback", "powertrain": "Hybrid Standard" },
+    { "rank": 2, "model": "Corolla", "category": "Hatchback", "powertrain": "Hybrid Standard" },
+    { "rank": 3, "model": "RAV4", "category": "SUV", "powertrain": "Hybrid / PHEV" }
+  ],
+  "France": [
+    { "rank": 1, "model": "Yaris", "category": "Hatchback", "powertrain": "Hybrid Standard" },
+    { "rank": 2, "model": "C-HR", "category": "Crossover", "powertrain": "Hybrid / PHEV" },
+    { "rank": 3, "model": "Corolla", "category": "Hatchback", "powertrain": "Hybrid Standard" }
+  ],
+  "Canada": [
+    { "rank": 1, "model": "RAV4", "category": "SUV", "powertrain": "Hybrid Available" },
+    { "rank": 2, "model": "Corolla", "category": "Sedan", "powertrain": "Hybrid Available" },
+    { "rank": 3, "model": "Highlander", "category": "SUV", "powertrain": "Hybrid Available" }
+  ],
+  "Mexico": [
+    { "rank": 1, "model": "Hilux", "category": "Pickup", "powertrain": "Diesel / Gasoline" },
+    { "rank": 2, "model": "RAV4", "category": "SUV", "powertrain": "Hybrid Available" },
+    { "rank": 3, "model": "Corolla", "category": "Sedan", "powertrain": "Gasoline" }
+  ],
+  "Australia": [
+    { "rank": 1, "model": "HiLux", "category": "Pickup", "powertrain": "Diesel" },
+    { "rank": 2, "model": "RAV4", "category": "SUV", "powertrain": "Hybrid Standard" },
+    { "rank": 3, "model": "Land Cruiser", "category": "SUV", "powertrain": "Diesel" }
+  ],
+  "South Africa": [
+    { "rank": 1, "model": "Hilux", "category": "Pickup", "powertrain": "Diesel" },
+    { "rank": 2, "model": "Fortuner", "category": "SUV", "powertrain": "Diesel" },
+    { "rank": 3, "model": "Corolla Cross", "category": "Crossover", "powertrain": "Hybrid Available" }
+  ],
+  "Philippines": [
+    { "rank": 1, "model": "Vios", "category": "Sedan", "powertrain": "Gasoline" },
+    { "rank": 2, "model": "Fortuner", "category": "SUV", "powertrain": "Diesel" },
+    { "rank": 3, "model": "Innova", "category": "MPV", "powertrain": "Gasoline / Hybrid" }
+  ],
+  "Vietnam": [
+    { "rank": 1, "model": "Vios", "category": "Sedan", "powertrain": "Gasoline" },
+    { "rank": 2, "model": "Veloz", "category": "MPV", "powertrain": "Gasoline" },
+    { "rank": 3, "model": "Corolla Cross", "category": "Crossover", "powertrain": "Hybrid Available" }
+  ],
+  "Turkey": [
+    { "rank": 1, "model": "Corolla", "category": "Sedan", "powertrain": "Hybrid Available" },
+    { "rank": 2, "model": "C-HR", "category": "Crossover", "powertrain": "Hybrid / PHEV" },
+    { "rank": 3, "model": "RAV4", "category": "SUV", "powertrain": "Hybrid Available" }
+  ],
+  "Argentina": [
+    { "rank": 1, "model": "Hilux", "category": "Pickup", "powertrain": "Diesel" },
+    { "rank": 2, "model": "Corolla", "category": "Sedan", "powertrain": "Gasoline" },
+    { "rank": 3, "model": "SW4", "category": "SUV", "powertrain": "Diesel" }
+  ],
+  "Saudi Arabia": [
+    { "rank": 1, "model": "Hilux", "category": "Pickup", "powertrain": "Gasoline / Diesel" },
+    { "rank": 2, "model": "Land Cruiser", "category": "SUV", "powertrain": "Gasoline" },
+    { "rank": 3, "model": "Camry", "category": "Sedan", "powertrain": "Gasoline" }
+  ]
+}

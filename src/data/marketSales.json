@@ -1,0 +1,21 @@
+[
+  { "country": "United States", "countryCode": "USA", "lat": 39.8, "lng": -98.5, "salesUnits": 2330000, "yoyGrowthPct": 3.4, "marketSharePct": 14.4, "hasFactory": true },
+  { "country": "Japan", "countryCode": "JPN", "lat": 36.2, "lng": 138.3, "salesUnits": 1480000, "yoyGrowthPct": 1.1, "marketSharePct": 45.0, "hasFactory": true },
+  { "country": "China", "countryCode": "CHN", "lat": 35.0, "lng": 103.0, "salesUnits": 1710000, "yoyGrowthPct": -2.3, "marketSharePct": 7.0, "hasFactory": true },
+  { "country": "India", "countryCode": "IND", "lat": 22.0, "lng": 79.0, "salesUnits": 260000, "yoyGrowthPct": 12.5, "marketSharePct": 6.5, "hasFactory": true },
+  { "country": "Thailand", "countryCode": "THA", "lat": 15.9, "lng": 100.6, "salesUnits": 300000, "yoyGrowthPct": 4.8, "marketSharePct": 33.0, "hasFactory": true },
+  { "country": "Indonesia", "countryCode": "IDN", "lat": -2.5, "lng": 118.0, "salesUnits": 335000, "yoyGrowthPct": 3.9, "marketSharePct": 32.0, "hasFactory": true },
+  { "country": "Brazil", "countryCode": "BRA", "lat": -14.2, "lng": -51.9, "salesUnits": 255000, "yoyGrowthPct": 7.6, "marketSharePct": 11.0, "hasFactory": true },
+  { "country": "United Kingdom", "countryCode": "GBR", "lat": 54.0, "lng": -2.0, "salesUnits": 145000, "yoyGrowthPct": 5.2, "marketSharePct": 8.0, "hasFactory": true },
+  { "country": "Germany", "countryCode": "DEU", "lat": 51.2, "lng": 10.4, "salesUnits": 125000, "yoyGrowthPct": 2.1, "marketSharePct": 4.5, "hasFactory": false },
+  { "country": "France", "countryCode": "FRA", "lat": 46.6, "lng": 2.2, "salesUnits": 105000, "yoyGrowthPct": 1.8, "marketSharePct": 5.5, "hasFactory": true },
+  { "country": "Canada", "countryCode": "CAN", "lat": 56.1, "lng": -106.3, "salesUnits": 225000, "yoyGrowthPct": 3.0, "marketSharePct": 13.0, "hasFactory": true },
+  { "country": "Mexico", "countryCode": "MEX", "lat": 23.6, "lng": -102.5, "salesUnits": 145000, "yoyGrowthPct": 6.4, "marketSharePct": 9.5, "hasFactory": true },
+  { "country": "Australia", "countryCode": "AUS", "lat": -25.3, "lng": 133.8, "salesUnits": 230000, "yoyGrowthPct": 2.7, "marketSharePct": 20.0, "hasFactory": false },
+  { "country": "South Africa", "countryCode": "ZAF", "lat": -29.0, "lng": 24.0, "salesUnits": 115000, "yoyGrowthPct": 4.1, "marketSharePct": 22.0, "hasFactory": true },
+  { "country": "Philippines", "countryCode": "PHL", "lat": 12.9, "lng": 121.8, "salesUnits": 195000, "yoyGrowthPct": 8.9, "marketSharePct": 40.0, "hasFactory": false },
+  { "country": "Vietnam", "countryCode": "VNM", "lat": 16.0, "lng": 108.0, "salesUnits": 75000, "yoyGrowthPct": 6.7, "marketSharePct": 18.0, "hasFactory": false },
+  { "country": "Turkey", "countryCode": "TUR", "lat": 39.0, "lng": 35.2, "salesUnits": 65000, "yoyGrowthPct": -1.5, "marketSharePct": 7.5, "hasFactory": true },
+  { "country": "Argentina", "countryCode": "ARG", "lat": -38.4, "lng": -63.6, "salesUnits": 95000, "yoyGrowthPct": 9.2, "marketSharePct": 19.0, "hasFactory": true },
+  { "country": "Saudi Arabia", "countryCode": "SAU", "lat": 24.0, "lng": 45.0, "salesUnits": 205000, "yoyGrowthPct": 5.5, "marketSharePct": 35.0, "hasFactory": false }
+]

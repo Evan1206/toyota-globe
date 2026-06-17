@@ -1,0 +1,200 @@
+[
+  {
+    "id": "jp-motomachi",
+    "name": "Toyota Motomachi Plant",
+    "country": "Japan",
+    "countryCode": "JPN",
+    "lat": 35.08,
+    "lng": 137.16,
+    "established": 1959,
+    "annualCapacityUnits": 430000,
+    "mainProducts": ["Crown", "Mirai", "Lexus LM"]
+  },
+  {
+    "id": "jp-tahara",
+    "name": "Toyota Tahara Plant",
+    "country": "Japan",
+    "countryCode": "JPN",
+    "lat": 34.67,
+    "lng": 137.27,
+    "established": 1979,
+    "annualCapacityUnits": 450000,
+    "mainProducts": ["Land Cruiser", "Lexus LX", "Lexus LS"]
+  },
+  {
+    "id": "jp-kyushu",
+    "name": "Toyota Motor Kyushu",
+    "country": "Japan",
+    "countryCode": "JPN",
+    "lat": 33.75,
+    "lng": 130.66,
+    "established": 1992,
+    "annualCapacityUnits": 430000,
+    "mainProducts": ["Lexus RX", "Lexus NX", "Lexus ES"]
+  },
+  {
+    "id": "us-kentucky",
+    "name": "Toyota Motor Manufacturing Kentucky",
+    "country": "United States",
+    "countryCode": "USA",
+    "lat": 38.21,
+    "lng": -84.56,
+    "established": 1988,
+    "annualCapacityUnits": 550000,
+    "mainProducts": ["Camry", "RAV4 Hybrid"]
+  },
+  {
+    "id": "us-texas",
+    "name": "Toyota Motor Manufacturing Texas",
+    "country": "United States",
+    "countryCode": "USA",
+    "lat": 29.42,
+    "lng": -98.49,
+    "established": 2006,
+    "annualCapacityUnits": 280000,
+    "mainProducts": ["Tundra", "Tacoma"]
+  },
+  {
+    "id": "ca-cambridge",
+    "name": "Toyota Motor Manufacturing Canada",
+    "country": "Canada",
+    "countryCode": "CAN",
+    "lat": 43.36,
+    "lng": -80.31,
+    "established": 1988,
+    "annualCapacityUnits": 480000,
+    "mainProducts": ["RAV4", "Lexus RX", "Lexus NX"]
+  },
+  {
+    "id": "mx-guanajuato",
+    "name": "Toyota Motor Manufacturing Mexico",
+    "country": "Mexico",
+    "countryCode": "MEX",
+    "lat": 20.56,
+    "lng": -100.62,
+    "established": 2019,
+    "annualCapacityUnits": 100000,
+    "mainProducts": ["Tacoma"]
+  },
+  {
+    "id": "br-sorocaba",
+    "name": "Toyota Sorocaba Plant",
+    "country": "Brazil",
+    "countryCode": "BRA",
+    "lat": -23.50,
+    "lng": -47.46,
+    "established": 1998,
+    "annualCapacityUnits": 220000,
+    "mainProducts": ["Corolla", "Corolla Cross"]
+  },
+  {
+    "id": "ar-zarate",
+    "name": "Toyota Zarate Plant",
+    "country": "Argentina",
+    "countryCode": "ARG",
+    "lat": -34.10,
+    "lng": -59.02,
+    "established": 1997,
+    "annualCapacityUnits": 140000,
+    "mainProducts": ["Hilux", "SW4"]
+  },
+  {
+    "id": "uk-burnaston",
+    "name": "Toyota Motor Manufacturing UK (Burnaston)",
+    "country": "United Kingdom",
+    "countryCode": "GBR",
+    "lat": 52.83,
+    "lng": -1.66,
+    "established": 1992,
+    "annualCapacityUnits": 180000,
+    "mainProducts": ["Corolla Hatchback", "Corolla Touring Sports"]
+  },
+  {
+    "id": "fr-onnaing",
+    "name": "Toyota Motor Manufacturing France",
+    "country": "France",
+    "countryCode": "FRA",
+    "lat": 50.36,
+    "lng": 3.55,
+    "established": 2001,
+    "annualCapacityUnits": 230000,
+    "mainProducts": ["Yaris", "Yaris Cross"]
+  },
+  {
+    "id": "tr-sakarya",
+    "name": "Toyota Motor Manufacturing Turkey",
+    "country": "Turkey",
+    "countryCode": "TUR",
+    "lat": 40.78,
+    "lng": 30.40,
+    "established": 1994,
+    "annualCapacityUnits": 280000,
+    "mainProducts": ["Corolla", "Corolla Cross", "C-HR"]
+  },
+  {
+    "id": "za-durban",
+    "name": "Toyota South Africa Motors (Durban)",
+    "country": "South Africa",
+    "countryCode": "ZAF",
+    "lat": -29.85,
+    "lng": 31.02,
+    "established": 1962,
+    "annualCapacityUnits": 220000,
+    "mainProducts": ["Hilux", "Fortuner", "Corolla Cross"]
+  },
+  {
+    "id": "cn-tianjin",
+    "name": "FAW Toyota Tianjin Plant",
+    "country": "China",
+    "countryCode": "CHN",
+    "lat": 39.30,
+    "lng": 117.40,
+    "established": 2002,
+    "annualCapacityUnits": 500000,
+    "mainProducts": ["Corolla", "Levin"]
+  },
+  {
+    "id": "cn-guangzhou",
+    "name": "GAC Toyota Guangzhou Plant",
+    "country": "China",
+    "countryCode": "CHN",
+    "lat": 23.05,
+    "lng": 113.40,
+    "established": 2006,
+    "annualCapacityUnits": 600000,
+    "mainProducts": ["Camry", "Highlander", "bZ4X"]
+  },
+  {
+    "id": "th-samrong",
+    "name": "Toyota Motor Thailand (Samrong)",
+    "country": "Thailand",
+    "countryCode": "THA",
+    "lat": 13.60,
+    "lng": 100.94,
+    "established": 1964,
+    "annualCapacityUnits": 370000,
+    "mainProducts": ["Hilux", "Fortuner", "Camry"]
+  },
+  {
+    "id": "in-bidadi",
+    "name": "Toyota Kirloskar Motor (Bidadi)",
+    "country": "India",
+    "countryCode": "IND",
+    "lat": 12.62,
+    "lng": 77.39,
+    "established": 1999,
+    "annualCapacityUnits": 310000,
+    "mainProducts": ["Innova Crysta", "Fortuner", "Urban Cruiser Hyryder"]
+  },
+  {
+    "id": "id-karawang",
+    "name": "Toyota Motor Manufacturing Indonesia (Karawang)",
+    "country": "Indonesia",
+    "countryCode": "IDN",
+    "lat": -6.30,
+    "lng": 107.30,
+    "established": 1998,
+    "annualCapacityUnits": 250000,
+    "mainProducts": ["Avanza", "Fortuner", "Innova"]
+  }
+]
